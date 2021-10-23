@@ -1,2 +1,16 @@
-package First_Steps_In_Coding_Lab;public class ConcatenateData {
+package First_Steps_In_Coding_Lab;
+
+import java.util.Scanner;
+
+public class ConcatenateData {
+    public static void main(String[] args) {
+         Scanner scanner = new Scanner(System.in);
+         String firstName = scanner.nextLine();
+         String lastName = scanner.nextLine();
+         int age = Integer.parseInt(scanner.nextLine());
+         String town = scanner.nextLine();
+
+         String concatenatedData = String.format("You are %s %s, a %d-years old person from %s.",firstName,lastName,age,town);
+        System.out.println(concatenatedData);
+    }
 }
