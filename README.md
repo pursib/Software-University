@@ -8,6 +8,7 @@ Every of the following folders
 4.JavaOOP
 
 Is a module in the curiculum.
+In every of this moduls you will find a "src" folder which contains folders with lecttures in the modul.
 In every of this folders you will find a bit of folders with different names which are actually the names of lecturres in this module and a folder named "TasksDescription" which contains the description of tasks for every letture in the current module.
 
 This matterials are free to be read by everyone, but noone have permission to share the content of this repository.
