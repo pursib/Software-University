@@ -1,5 +1,6 @@
 package Conditional_Statements_Exercise;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Shopping {
@@ -26,4 +27,7 @@ public class Shopping {
             System.out.printf("Not enough money! You need %.2f leva more!",totalPrice-budget);
         }
     }
+=======
+public class Shopping {
+>>>>>>> master
 }
