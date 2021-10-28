@@ -13,4 +13,5 @@ public class ConcatenateData {
          String concatenatedData = String.format("You are %s %s, a %d-years old person from %s.",firstName,lastName,age,town);
         System.out.println(concatenatedData);
     }
+
 }
