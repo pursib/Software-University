@@ -13,3 +13,5 @@ In TasksDescriptions you will find files named with lectures names in which you 
 When you go in one of the modules, for example "ProgammingBasicsWithJava" and then go in folder of a lecture, for example "FirstStepsInCoding" you will find 
 the tasks whit which im done.
 This matterials are free to be read by everyone, but noone have permission to share the content of this repository.
+
+In folder "Certificates" you can find the certificates I earned till now.
