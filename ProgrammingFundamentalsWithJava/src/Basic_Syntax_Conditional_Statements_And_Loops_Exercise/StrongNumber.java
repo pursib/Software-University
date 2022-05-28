@@ -16,14 +16,10 @@ public class StrongNumber {
             for (int j = 1; j <= currentNumber; j++) {
                 numberHolder = startNumber * j;
                 startNumber = numberHolder;
-
-
             }
             factorial += startNumber;
             startNumber = 1;
-
         }
-
         if (String.valueOf(factorial).equals(number)) {
             System.out.println("yes");
         } else {
