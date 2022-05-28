@@ -14,9 +14,8 @@ public class Orders {
             int capsulesCount = Integer.parseInt(scanner.nextLine());
             double orderPrice = (days * capsulesCount) * pricePerCapsule;
             total += orderPrice;
-            System.out.printf("The price for the coffee is: $%.2f", orderPrice);
+            System.out.printf("The price for the coffee is: $%.2f%n", orderPrice);
         }
-        System.out.println();
         System.out.printf("Total: $%.2f", total);
     }
 }
